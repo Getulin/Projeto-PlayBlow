@@ -1,0 +1,5 @@
+# ninja log v5
+415	1199	7205759628546642	C:/Users/playb/Music/PlayBlow/gitplayblow/PlayBlow/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5k296h4x/obj/armeabi-v7a/libswappywrapper.so	a2f7cf4c4a3e4c8c
+0	414	7205759622613537	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4286a1a88291bd2c
+2	491	7205769687969334	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4286a1a88291bd2c
+491	1234	7205769694426200	C:/Users/playb/Music/PlayBlow/gitplayblow/PlayBlow/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5k296h4x/obj/armeabi-v7a/libswappywrapper.so	a2f7cf4c4a3e4c8c

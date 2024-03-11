@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_MenuInicial/0_MenuInicial.unity
+    guid: 4ba6cf47ab1fbca4db4c44f0336edcda
+  - enabled: 1
+    path: Assets/Scenes/1_MapaPrincipal/1_MapaPrincipal.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/2A_BarquinhoMinigame/2A_BarquinhoMinigame.unity
+    guid: 95183436959272d479f0af22d8d6409c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+  m_UseUCBPForAssetBundles: 0
